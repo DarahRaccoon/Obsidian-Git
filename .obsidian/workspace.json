@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prueba_1.md",
+                "file": "Frases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prueba_1"
+              "title": "Frases"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "7f00f8583bc9360c",
   "lastOpenFiles": [
+    "Prueba_1.md",
     "Química(s).md",
     "Lecturas - Libros.md",
     "Lecturas - Artículos.md",
@@ -211,7 +212,6 @@
     "5 - Templates/3_General.md",
     "5 - Templates/2_Scientific articles.md",
     "5 - Templates/1_Class Notes.md",
-    "5 - Templates/0_Main.md",
     "5 - Templates",
     "4 - Indexes",
     "3 - Tags/Autores",

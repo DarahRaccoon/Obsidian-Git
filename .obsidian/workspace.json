@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "10c3047e0d7d3a34",
+    "type": "split",
+    "children": [
+      {
+        "id": "8673d15eff5ddda9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f00f8583bc9360c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prueba_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prueba_1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae75146065aeb86f",
+    "type": "split",
+    "children": [
+      {
+        "id": "30b798578d86c475",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91e0b0e45bebbc84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "596d0b8935444403",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "e07b41b48e2064b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f93a1449550756a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "791b7a89ef82679a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7078dfa8be19c6c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Prueba_1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Prueba_1"
+            }
+          },
+          {
+            "id": "8b2ab13c4c94a34d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Prueba_1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Prueba_1"
+            }
+          },
+          {
+            "id": "6cacf6cc1b990b12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "54af48f24bf3aec0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Prueba_1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Prueba_1"
+            }
+          },
+          {
+            "id": "28b780657934a054",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7f00f8583bc9360c",
+  "lastOpenFiles": [
+    "Prueba_1.md"
+  ]
+}

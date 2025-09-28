@@ -139,19 +139,9 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "a1d58eeff2d05010",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {

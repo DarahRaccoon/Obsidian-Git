@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Frases"
             }
+          },
+          {
+            "id": "1ec5521d37972076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prueba 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prueba 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,14 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f00f8583bc9360c",
+  "active": "1ec5521d37972076",
   "lastOpenFiles": [
+    "Frases.md",
+    "Prueba 2.md",
     "Prueba_1.md",
     "Química(s).md",
     "Lecturas - Libros.md",
     "Lecturas - Artículos.md",
     "Ideas a investigar.md",
-    "Frases.md",
     "Fear doesn't work.md",
     "---Bandcamp---.md",
     "6 - Main Notes/El aumento en la glorificación de objetos.md",
@@ -211,7 +227,6 @@
     "5 - Templates/Integración Zotero-Obsidian",
     "5 - Templates/3_General.md",
     "5 - Templates/2_Scientific articles.md",
-    "5 - Templates/1_Class Notes.md",
     "5 - Templates",
     "4 - Indexes",
     "3 - Tags/Autores",

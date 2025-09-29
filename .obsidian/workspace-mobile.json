@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Class notes/AC4 - Ejercicios UA 1.md",
+                "file": "Obsidian git script.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AC4 - Ejercicios UA 1"
+              "title": "Obsidian git script"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Ac4",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "82a9a9fba2a7bc87",
@@ -157,8 +157,9 @@
   },
   "active": "e21692e7d9a160aa",
   "lastOpenFiles": [
-    "Aminoácidos y pH.md",
+    "Lecturas - Artículos.md",
     "2 - Source Material/Class notes/AC4 - Ejercicios UA 1.md",
+    "Aminoácidos y pH.md",
     "Obsidian git script.md",
     "Frases.md"
   ]

@@ -5,7 +5,7 @@ Publicación: {{date | format("YYYY")}}
 >[!Abstract]
 
 {{bibliography}}
-# [Fuente]()
+# [Fuente]({{url}})
 ---
 # .
 {% for annotation in annotations %}{% if annotation.annotatedText %}

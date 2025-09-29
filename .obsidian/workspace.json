@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f00f8583bc9360c",
+            "id": "f5c1bc7ce3d75754",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "6 - Main Notes/EVIDENCIA 1.UAI. INVESTIGACION.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -94,6 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "6 - Main Notes/EVIDENCIA 1.UAI. INVESTIGACION.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Gráfico de EVIDENCIA 1.UAI. INVESTIGACION"
             }
           }
         ]
@@ -222,12 +223,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91e0b0e45bebbc84",
+  "active": "28b780657934a054",
   "lastOpenFiles": [
-    "6 - Main Notes/EVIDENCIA 1.UAI. INVESTIGACION.md",
-    "Estudio de pre-tratamientos con enzimas en biomasas destinadas a la producción de biogás.md",
-    "Frases.md",
     "Aminoácidos y pH.md",
+    "2 - Source Material/Scientific articles/Estudio de pre-tratamientos con enzimas en biomasas destinadas a la producción de biogás.md",
+    "2 - Source Material/Scientific articles/Estudio de pre-tratamientos con enzimas en biomasas destinadas a la producción de biogás.md",
+    "5 - Templates/Integración Zotero-Obsidian/Plantillas Obsidian Zotero/Plantilla Importar Zotero_1.md",
+    "6 - Main Notes/EVIDENCIA 1.UAI. INVESTIGACION.md",
+    "Frases.md",
     "Prueba 2.md",
     "Prueba_1.md",
     "Química(s).md",
@@ -245,14 +248,12 @@
     "6 - Main Notes/Discusiones y democracia.md",
     "6 - Main Notes/Comandos de Linux.md",
     "6 - Main Notes",
-    "5 - Templates/Integración Zotero-Obsidian/Plantillas Obsidian Zotero/Plantilla Importar Zotero_1.md",
     "5 - Templates/Integración Zotero-Obsidian/Plantillas Obsidian Zotero/Plantilla Importar Zotero_0.md",
     "5 - Templates/Integración Zotero-Obsidian/Plantillas Obsidian Zotero/Plantilla Importar Zotero - colores diferenciados.md",
     "5 - Templates/Integración Zotero-Obsidian/Plantillas Obsidian Zotero",
     "5 - Templates/Integración Zotero-Obsidian/Ejemplos de formulas de citacion BetterBibTex.txt",
     "5 - Templates/smiles.md",
     "5 - Templates/mermaid.md",
-    "5 - Templates/eqs.md",
     "5 - Templates/Integración Zotero-Obsidian",
     "5 - Templates",
     "4 - Indexes",

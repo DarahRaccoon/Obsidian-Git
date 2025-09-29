@@ -1,3 +1,8 @@
+>[!Info]
+>Clase: Bioquímica
+>Fecha: 
+
+---
 # pK
 Primero, debemos recordar las reacciones reversibles, las cuales son aquellas que pueden proceder tanto hacia adelante como hacia atrás, y cuando se llega al punto en el cual tanto el proceso hacia adelante como el proceso inverso suceden a la misma velocidad, se dice que se llegó a un estado de equilibrio químico. Es importante recordar que aunque las concentraciones son constantes en el equilibrio la reacción no se ha detenido, y es por eso que a este estado también se le llama equilibrio dinámico.
 De acuerdo con las concentraciones de todas las especies de la reacción en equilibrio, podemos definir una cantidad llamada la constante de equilibrio ($K$), la cual describe las concentraciones molares en el equilibrio para una temperatura específica.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian git script.md",
+                "file": "Fear doesn't work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian git script"
+              "title": "Fear doesn't work"
             }
           }
         ]
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2 - Source Material/Class notes/AC4 - Ejercicios UA 1.md",
+            "file": "Fear doesn't work.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -156,6 +156,7 @@
   },
   "active": "e21692e7d9a160aa",
   "lastOpenFiles": [
+    "Aminoácidos canónicos - Estructuras.md",
     "Lecturas - Artículos.md",
     "2 - Source Material/Class notes/AC4 - Ejercicios UA 1.md",
     "Aminoácidos y pH.md",

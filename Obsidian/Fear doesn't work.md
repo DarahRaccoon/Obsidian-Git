@@ -25,7 +25,7 @@ De acuerdo con el **CRED** (Centro para la Investigación de las Decisiones Ambi
 
 	According to Susanne Moser and Lisa Dilling, making people act on climate change has become challenging because of a few things: “the characteristics of climate change itself, its politicization and institutionalization, cognitive and psychological ways of processing information, structural challengers pertaining to the media used for communication.”
 
-De acuerdo con **Susanne Moser** y **Lisa Dilling**, hacer que las personas actuan contra el cambio climático se ha vuelto dificil por:
+De acuerdo con **Susanne Moser** y **Lisa Dilling**, hacer que las personas actuan contra el cambio climático se ha vuelto *dificil por*:
 - Las características del tema en sí
 - Su politización
 - Su institucionalización
@@ -40,7 +40,7 @@ Del **CRED**: El *sesgo de confirmación* hace que las personas busquen *infroma
 
 De **Carolyn Gergoire**:
 - *Disonancia cognitiva:* La tensión que alguien siente cuando  sus pensaminetos y sus creencias chocan
-	- El *sesgo de confirmación* puede ser usado por las personas como *escape* de la disnonacia cognitiva.
+	- El *sesgo de confirmación* puede ser usado por las personas como *escape* de la disonancia cognitiva.
 .
 
 	According to CRED, people will eventually update their existing beliefs and perceptions by correcting misinformation. The catch? Communicators must be able to figure out the misconceptions of their audience on climate change, disconnect this misinformation, and replace it with new facts.
@@ -53,13 +53,19 @@ El **CRED** dice que las personas, con el tiempo, terminan por cambiar sus creen
 
 	According to a study from Dartmouth, “If people counterargue unwelcome information vigorously enough, they may end up with 'more attitudinally congruent information in mind than before the debate,'
 
+Un punto importante al comunicar el cambio climático es conocer *como procesan la información* las personas, puesto que *mucha información puede ser contraproducente*.
+Esto se conoce como el **efecto rebote** y cómo se mencionó anteriormente, consiste en que, al someter a las personas a argumentos que desafían sus creencias, ellos intentan defenderlas, y mientras más lo hacen, no solo se atan mas a sus creencias, sino aue, además, pueden terminar con creencias mas extremistas que las que tenían anterior al debate.
+
 	David McRaney summarizes the backfire effect simply, “Once something is added to your collection of beliefs, you protect it from harm.
 
-	Just as confirmation bias shields you when you actively seek information, the backfire effect defends you when the information seeks you, when it blindsides you.
-
-
+De **David McRanney**: "Una vez que algo es añadido a tu colección de creencias, *lo proteges* del daño".
 
 	According to Skeptical Science, there are two ways to deal with this: present information coupled with self-affirmation; and second, frame it in a way that doesn’t threaten their world views.
+
+**Soluciones** para lidiar con esto de acuerdo con **Skeptical Science**:
+1. Presenta la información junto con [...]
+2. Enmarca en mensaje de una forma que no ataque sus creencias
+.
 
 	it is not only climate skeptics or climate deniers who have confirmation bias and experience backfire effect.
 
@@ -78,32 +84,18 @@ El **CRED** dice que las personas, con el tiempo, terminan por cambiar sus creen
 	Uncertainty about the science proves to be a  challenge to communicators. According to Maxwell  Boykoff, “Uncertainty can be reframed as scientific  incompetence.”
 
 	According to the Uncertainty Handbook by Adam  Corner et al., uncertainty is a friend of science and an  enemy of inaction. And there are 12 tips they offer to  help us communicate uncertainty
-
 	1. Manage audience expectations
-
 	2. Start with what you know, not with what you don’t  know
-
-	4. Shift from “uncertainty” to “risk”  Most people are used with the idea of risk than  uncertainty, that’s why it can be more effective.
-
-	5. Be clear about the type of risk you are talking about
-
+	3. Shift from “uncertainty” to “risk”  Most people are used with the idea of risk than  uncertainty, that’s why it can be more effective.
+	4. Be clear about the type of risk you are talking about
 	– causes, impacts, policies or solutions
-
-	6. Understand what is driving people’s views
-
-	7. The most important question is “when” not “if”
-
-	8. Communicate through images and stories
-
-	9. Highlight the positives of uncertainty
-
-	If you talk about  uncertainty in a positive way, it creates hope, if you  talk about it in a
-
-	10. Communicate effectively about climate impacts
-
-	11. Have a conversation, not an argument
-
-	12. Tell a human story
+	5. Understand what is driving people’s views
+	6. The most important question is “when” not “if”
+	7. Communicate through images and stories
+	8. Highlight the positives of uncertainty.	If you talk about  uncertainty in a positive way, it creates hope, if you  talk about it in a
+	9. Communicate effectively about climate impacts
+	10. Have a conversation, not an argument
+	11. Tell a human story
 
 	A study by Tyndall Center for Climate Change Research found that fear is the most widely used emotion in communicating climate change.
 
@@ -119,17 +111,17 @@ El **CRED** dice que las personas, con el tiempo, terminan por cambiar sus creen
 
 	According to CRED, these 3 things might happen when you overuse emotional appeal:
 
-	1. That your audience’s concern about your risk may lessen when exposed to other near-term threats  2. That your audience’s emotional system will get tired in the long run and will not remain engaged  3. That your audience will experience emotional numbing whereby overexposure to emotionally draining situations will eventually lead them to become apathetic
+	12. That your audience’s concern about your risk may lessen when exposed to other near-term threats  2. That your audience’s emotional system will get tired in the long run and will not remain engaged  3. That your audience will experience emotional numbing whereby overexposure to emotionally draining situations will eventually lead them to become apathetic
 
-	3. Acknowledge that the audience has other  pressing issues.
+	13. Acknowledge that the audience has other  pressing issues.
 
-	4. Gauge an audience’s degree of numbing
+	14. Gauge an audience’s degree of numbing
 
 	CRED gives us 4  tips
 
-	1. Decide what portfolio of risks they want to  make the public more aware of and then  demonstrate the connection between those  risks,
+	15. Decide what portfolio of risks they want to  make the public more aware of and then  demonstrate the connection between those  risks,
 
-	2. Balance information that triggers an  emotional response with more analytic  information
+	16. Balance information that triggers an  emotional response with more analytic  information
 
 	CASE STUDY:
 

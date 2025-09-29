@@ -7,4 +7,3 @@
 ```smiles
 CC(N)C(=O)O
 ```
-

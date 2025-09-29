@@ -88,10 +88,10 @@ Luego, esta mezcla se somete a una evaporación de 80°C por 20-30 minutos, con 
 5) Esquematice el proceso con las entradas y salidas.
 
 ```mermaid
-flowchart LR
+flowchart TB
 	
 		1@{ shape: cyl, label: "Fruta" }
-		2@{ shape: cyl, label: "Azúcar<br>Pectina<br>Ácido cítrico" }
+		2@{ shape: cyl, label: "Azúcar, pectina<br>y ácido cítrico" }
 		
 		A(Mezcla)
 		
@@ -100,9 +100,9 @@ flowchart LR
 		4@{ shape: stadium, label: "Agua" }
 		5@{ shape: stadium, label: "Mermelada" }
 	
-	1 --> |1<br>m1 = ?<br>x1=.86<br>x2 = .14|A
-	2 --> |2<br>m2 = ?|A
-	A --> |3<br>m3 = ?<br>Xw = ?<br>Xs = ?|B
-	B --> |4<br>m4 = ?|4
-	B --> |5<br>m5 = ?<br>Xw = .33<br>Xs = .67|5
+	1 --> |1- m1 = ?<br>x1=.86 ; x2 = .14|A
+	2 --> |2- m2 = ?|A
+	A --> |3- m3 = ?<br>Xw = ?<br>Xs = ?|B
+	B --> |4- m4 = ?|4
+	B --> |5- m5 = ?<br>Xw = .33 ; Xs = .67|5
 ```

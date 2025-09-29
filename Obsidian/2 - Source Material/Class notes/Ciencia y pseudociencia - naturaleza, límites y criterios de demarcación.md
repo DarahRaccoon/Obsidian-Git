@@ -1,0 +1,86 @@
+>[!Info]
+>Clase: Ética profesional
+>Fecha: 22/Sept./2025
+
+---
+# Saber científico
+- **Se basa en:**
+	- Observación
+	- Experimentación
+	- Verificación empírica de fenómenos naturales y sociales
+- **Es:**
+	- Sistemático
+	- Riguroso
+	- Objetivo
+- **Busca:**
+	- Explicar y predecir fenómenos
+- **Mediante:**
+	- Leyes
+	- Teorías
+	- Modelos
+# Características del conocimiento científico
+- Empírico
+- Objetivo
+- Sistemático
+- Provisional
+- Generalizable
+- Comunicable
+- Falible
+# Límites del conocimiento científico
+- **Limitaciones**
+	- De la observación y la tecnología
+- **Sesgos cognitivos**
+	- *Sesgo de confirmación*
+		- Tendencia a buscar, interpretar y recordar *información que confirma nuestras creencias previas*, ignorando evidencia contradictoria.
+	- *Efecto Dunning-Kruger*
+		- Las personas con menor competencia en un área tienden a sobrestimar su conocimiento.
+	- *Pensamiento motivado*
+		- Cuando una conclusión científica *amenaza nuestros valores o intereses*, tendemos a buscar razones para rechazarla, independientemente de su validez empírica.
+	- *Correlación ilusoria*
+		- Percibimos relaciones causales donde solo existe *coincidencia temporal o espuria*.
+	- *Preferencia por narrativas*
+		- Los humanos preferimos explicaciones que cuenten una «historia» coherente.
+- **Ética**
+	- Ciertas investigaciones plantean *dilemas éticos*
+- **Limitaciones del método científico**
+	- No todas las preguntas pueden abordarse científicamente
+		- Morales
+		- Estéticas
+		- Metafísicas
+- **Incertidumbre y complejidad**
+	- Algunos fenómenos son *extremadamente complejos*
+		- Comportamiento humano
+		- Sistemas climáticos
+- **Sesgos sistémicos y fraude científico**
+# Principales diferencias entre ciencia y pseudociencia
+- **Base empírica**
+	- *Ciencia:* 
+		- Evidencia verificable y reproducible
+	- *Pseudociencia:* 
+		- Especulación
+		- Experiencias personales aisladas
+		- Evidencia anecdótica.
+- **Método científico**
+	- *Ciencia:* 
+		- Hipótesis testables
+		- Experimentación controlada
+		- Revisión sistemática
+	- *Pseudociencia:* 
+		- Carece de rigor metodológico
+		- Metodologías inadecuadas.
+- **Falibilidad**
+	- *Ciencia:* 
+		- Abierta a refutación y autocorrección
+	- *Pseudociencia:* 
+		- Ignora evidencia contradictoria
+		- Reintepreta evidencia para proteger sus afirmaciones
+- **Revisión por pares**
+	- *Ciencia:* 
+		- Es examinada críticamente por expertos independientes
+	- *Pseudociencia:* 
+		- Se promueve sin validación externa rigurosa
+- **Generalidad**
+	- *Ciencia:* 
+		- Busca explicaciones aplicables ampliamente
+	- *Pseudociencia:* 
+		- Se centra en casos específicos o excepcionales

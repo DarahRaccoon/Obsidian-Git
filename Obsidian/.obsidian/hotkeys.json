@@ -1,0 +1,29 @@
+{
+  "typewriter-mode:move-typewriter-up": [],
+  "typewriter-mode:move-typewriter-down": [],
+  "typewriter-mode:typewriter-mode-plugin-disable": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "typewriter-mode:typewriter-mode-plugin-enable": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": []
+}

@@ -13,4 +13,5 @@ git commit -m "vault_backup_(hh/mm)"
 git pull
 ```
  no git plugin
+ Oppo funcional
  

@@ -124,8 +124,19 @@
               "icon": "lucide-git-fork",
               "title": "Gráfico de Obsidian git script"
             }
+          },
+          {
+            "id": "109dfb0b77d532c2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "791b7a89ef82679a",
@@ -199,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {

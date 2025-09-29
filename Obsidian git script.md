@@ -14,4 +14,5 @@ git pull
 ```
  no git plugin
  Oppo funcional
+ script push funcional
  

@@ -8,31 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66780b99cc182ffe",
+            "id": "e107f16862a7ec4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aminoácidos canónicos - Estructuras.md",
+                "file": "Actividad - Existencialismo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aminoácidos canónicos - Estructuras"
+              "title": "Actividad - Existencialismo"
             }
           },
           {
-            "id": "4fbd675f5d4cb84b",
+            "id": "93f99cbf9f76a0b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Balance de materia con reacción química - Irreversibilidad, reversibilidad y equilibrio químico.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Balance de materia con reacción química - Irreversibilidad, reversibilidad y equilibrio químico"
+              "title": "Nueva pestaña"
             }
           }
         ],
@@ -227,11 +223,14 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "4fbd675f5d4cb84b",
+  "active": "93f99cbf9f76a0b2",
   "lastOpenFiles": [
+    "Actividad - Existencialismo.md",
+    "2 - Source Material/Class notes/Balance de materia con reacción química - Irreversibilidad, reversibilidad y equilibrio químico.md",
+    "2 - Source Material/Class notes/Aminoácidos canónicos - Estructuras.md",
+    "1 - Rough Notes/Perspectiva personal sobre el estado de las ciencias.md",
+    "1 - Rough Notes/Perspectiva personal sobre el concepto de realidad.md",
     "1 - Rough Notes/Fear doesn't work.md",
-    "Balance de materia con reacción química - Irreversibilidad, reversibilidad y equilibrio químico.md",
-    "Aminoácidos canónicos - Estructuras.md",
     "2 - Source Material/Class notes/Aminoácidos y pH.md",
     "2 - Source Material/0_Obsidian_Media/Valores de pKa.png",
     "5 - Templates/2_Scientific articles.md",
@@ -253,9 +252,6 @@
     "6 - Main Notes/Receta de falafel.md",
     "6 - Main Notes/Pseudociencia, divulgación científica y posverdad.md",
     "6 - Main Notes/Proceso de duelo.md",
-    "6 - Main Notes/Especialización y desigualdad.md",
-    "6 - Main Notes/Discusiones y democracia.md",
-    "6 - Main Notes/Comandos de Linux.md",
     "6 - Main Notes",
     "5 - Templates/Integración Zotero-Obsidian/Plantillas Obsidian Zotero",
     "5 - Templates/Integración Zotero-Obsidian/Ejemplos de formulas de citacion BetterBibTex.txt",

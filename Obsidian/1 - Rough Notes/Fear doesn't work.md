@@ -54,7 +54,7 @@ El **CRED** dice que las personas, con el tiempo, terminan por cambiar sus creen
 	According to a study from Dartmouth, “If people counterargue unwelcome information vigorously enough, they may end up with 'more attitudinally congruent information in mind than before the debate,'
 
 Un punto importante al comunicar el cambio climático es conocer *como procesan la información* las personas, puesto que *mucha información puede ser contraproducente*.
-Esto se conoce como el **efecto rebote** y cómo se mencionó anteriormente, consiste en que, al someter a las personas a argumentos que desafían sus creencias, ellos intentan defenderlas, y mientras más lo hacen, no solo se atan mas a sus creencias, sino aue, además, pueden terminar con creencias mas extremistas que las que tenían anterior al debate.
+Esto se conoce como el **efecto rebote** y cómo se mencionó anteriormente, consiste en que, al someter a las personas a *argumentos que desafían sus creencias*, ellos intentan defenderlas, y mientras más lo hacen, no solo *se atan mas a sus creencias*, sino que, además, pueden terminar con *creencias mas extremistas* que las que tenían anterior al debate.
 
 	David McRaney summarizes the backfire effect simply, “Once something is added to your collection of beliefs, you protect it from harm.
 
@@ -63,19 +63,39 @@ De **David McRanney**: "Una vez que algo es añadido a tu colección de creencia
 	According to Skeptical Science, there are two ways to deal with this: present information coupled with self-affirmation; and second, frame it in a way that doesn’t threaten their world views.
 
 **Soluciones** para lidiar con esto de acuerdo con **Skeptical Science**:
-1. Presenta la información junto con [...]
+1. Presenta la información junto con auto-afirmación.
 2. Enmarca en mensaje de una forma que no ataque sus creencias
 .
 
-	it is not only climate skeptics or climate deniers who have confirmation bias and experience backfire effect.
+	...it is not only climate skeptics or climate deniers who have confirmation bias and experience backfire effect.
 
-	The urge to use everything to our own advantage to help the cause will only lead to more misunderstanding and miscommunication,
+	The urge to use everything to our own advantage to help the cause will only lead to more misunderstanding and miscommunication, ...
+
+El *efecto rebote* puede existir *también en nosotros*, por lo que es importante *no caer en la urgencia* de intentar usar todo a nuestro alcance para apoyar la causa.
+Se necesita de una **mente fría y flexible**.
 
 	You will read many articles on the how communicating climate change (or any other issue), and most will tell you that an important thing to understand is to know your audience and frame your message accordingly.
 
+	In choosing how to frame your message, it might be useful to ask the following questions about your audience:  What are their demographics? Are they old or young? What level of education have they attained?  What do they do in their everyday lives? Do they experience climate change impacts directly? Do they see it first hand?  What do they care about? Do they care about the future? Or do they care more about what’s happening in the present?  Who do they listen to? Do they listen more to authority figures or do they distrust them?  Where do they get their information? Do they get it from news sources or do they get information from other people close by like neighbors and family members?
+
+Una practica muy importante en la comunicación del cambio climático es el *enmarcar el mensaje*.
+Esto significa *adaptarlo* al *sector demográfico* con el que estés tratando en ese momento.
+Características del grupo a tener en cuenta son:
+- Edad
+- Educación
+- Hábitos 
+- Familiaridad con los impactos del cambio climático
+- Tendencia individualista o cooperativista
+- Visión a presente o a futuro
+- Relación con la autoridad
+- Relación con las fuentes de información
+.
+
 	Matthew Nisbet warns us that framing doesn’t mean spinning news: “Framing, it should be noted, is not synonymous with placing a false spin on an issue, although some experts, advocates, journalists, and policymakers certainly spin evidence and facts.”
 
-	In choosing how to frame your message, it might be useful to ask the following questions about your audience:  What are their demographics? Are they old or young? What level of education have they attained?  What do they do in their everyday lives? Do they experience climate change impacts directly? Do they see it first hand?  What do they care about? Do they care about the future? Or do they care more about what’s happening in the present?  Who do they listen to? Do they listen more to authority figures or do they distrust them?  Where do they get their information? Do they get it from news sources or do they get information from other people close by like neighbors and family members?
+De **Matthew Nisbet**:
+- Enmarcar no es sinónimo de mentir.
+.
 
 	According to Climate Outreach, values which people hold can also define whether or not they support environmental causes:
 

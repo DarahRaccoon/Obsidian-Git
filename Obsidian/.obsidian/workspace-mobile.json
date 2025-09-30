@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fear doesn't work.md",
-                "mode": "source",
-                "source": false
+                "file": "Aminoácidos canónicos - Estructuras.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Fear doesn't work"
+              "title": "Aminoácidos canónicos - Estructuras"
             }
           }
         ]
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Fear doesn't work.md",
+            "file": "Aminoácidos canónicos - Estructuras.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""

@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "b26e6b5a817027ad",
+        "id": "85a9a7e3adbd970f",
         "type": "tabs",
         "children": [
           {
-            "id": "0214d572dc700489",
+            "id": "d5d67bf5a6c53eca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Comandos de Linux.md",
+                "file": "2 - Source Material/Class notes/Ejercicios de balance de materia con reacción química.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos de Linux"
+              "title": "Ejercicios de balance de materia con reacción química"
+            }
+          },
+          {
+            "id": "8324771316c646fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/Class notes/The box model (mdn).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The box model (mdn)"
+            }
+          },
+          {
+            "id": "6a3b425bb122977c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The box model (YT).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The box model (YT)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,8 +241,17 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0214d572dc700489",
+  "active": "6a3b425bb122977c",
   "lastOpenFiles": [
+    "2 - Source Material/Class notes/The box model (mdn).md",
+    "The box model (YT).md",
+    "2 - Source Material/Class notes/Ejercicios de balance de materia con reacción química.md",
+    "2 - Source Material/Class notes/Ejercicios de balance de materia con múltiples unidades.md",
+    "2 - Source Material/0_Obsidian_Media/content-box.png",
+    "2 - Source Material/0_Obsidian_Media/border-box.png",
+    "6 - Main Notes/Comandos de Linux.md",
+    "2 - Source Material/Class notes/CSS to HTML.md",
+    "Prueba de Jupyter.md",
     "2 - Source Material/Class notes/Actividad - Existencialismo.md",
     "2 - Source Material/Class notes/freeCodeCamp - Scientific computing with Python.md",
     "2 - Source Material/Class notes/Balance de materia con reacción química - Irreversibilidad, reversibilidad y equilibrio químico.md",
@@ -234,13 +272,6 @@
     "Prueba 2.md",
     "Prueba_1.md",
     "Química(s).md",
-    "Lecturas - Artículos.md",
-    "Ideas a investigar.md",
-    "---Bandcamp---.md",
-    "6 - Main Notes/El aumento en la glorificación de objetos.md",
-    "6 - Main Notes/Farmacología y capitalismo.md",
-    "6 - Main Notes/Receta de falafel.md",
-    "6 - Main Notes/Pseudociencia, divulgación científica y posverdad.md",
     "6 - Main Notes",
     "5 - Templates/Integración Zotero-Obsidian/Plantillas Obsidian Zotero",
     "5 - Templates/Integración Zotero-Obsidian/Ejemplos de formulas de citacion BetterBibTex.txt",
@@ -257,8 +288,6 @@
     "2 - Source Material/0_Obsidian_Media/22-08 - 01.png",
     "2 - Source Material/0_Obsidian_Media/18-08 - 04.png",
     "2 - Source Material/0_Obsidian_Media/18-08 - 02.png",
-    "2 - Source Material/0_Obsidian_Media/18-08 - 03.png",
-    "2 - Source Material/0_Obsidian_Media/18-08 - 01.png",
-    "2 - Source Material/0_Obsidian_Media/Cellulase_1KS4.png"
+    "2 - Source Material/0_Obsidian_Media/18-08 - 03.png"
   ]
 }

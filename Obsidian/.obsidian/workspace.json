@@ -11,10 +11,14 @@
             "id": "0214d572dc700489",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Comandos de Linux.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Comandos de Linux"
             }
           }
         ]

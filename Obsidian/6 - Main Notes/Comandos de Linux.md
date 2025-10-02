@@ -8,7 +8,7 @@ tags: [[linux]],
 ```
 sudo dpkg -i DEB_PACKAGE
 ```
-## Remome[^1]
+## Remove[^1]
 ```
 sudo dpkg -r PACKAGE_NAME
 ```

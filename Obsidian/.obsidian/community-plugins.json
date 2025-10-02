@@ -6,5 +6,6 @@
   "highlightr-plugin",
   "chem",
   "mehrmaid",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "code-emitter"
 ]

@@ -49,8 +49,7 @@
               "title": "The box model (YT)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +101,19 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
+          },
+          {
+            "id": "0c04d9858baa0048",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Navegador de Cuadernos"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -238,10 +248,11 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "notebook-navigator:Navegador de Cuadernos": false
     }
   },
-  "active": "6a3b425bb122977c",
+  "active": "0c04d9858baa0048",
   "lastOpenFiles": [
     "2 - Source Material/Class notes/The box model (mdn).md",
     "The box model (YT).md",

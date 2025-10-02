@@ -7,5 +7,7 @@
   "chem",
   "mehrmaid",
   "multi-column-markdown",
-  "code-emitter"
+  "code-emitter",
+  "notebook-navigator",
+  "epub-importer"
 ]

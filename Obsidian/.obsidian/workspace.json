@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5d67bf5a6c53eca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/Class notes/Ejercicios de balance de materia con reacción química.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejercicios de balance de materia con reacción química"
-            }
-          },
-          {
             "id": "8324771316c646fb",
             "type": "leaf",
             "state": {
@@ -36,17 +22,17 @@
             }
           },
           {
-            "id": "6a3b425bb122977c",
+            "id": "d5d67bf5a6c53eca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The box model (YT).md",
-                "mode": "source",
+                "file": "2 - Source Material/Class notes/Ejercicios de balance de materia con reacción química.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The box model (YT)"
+              "title": "Ejercicios de balance de materia con reacción química"
             }
           }
         ]
@@ -84,7 +70,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -101,19 +87,8 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
-          },
-          {
-            "id": "0c04d9858baa0048",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook",
-              "title": "Navegador de Cuadernos"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -248,51 +223,50 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
-      "notebook-navigator:Navegador de Cuadernos": false
+      "bases:Crear nueva base": false
     }
   },
-  "active": "0c04d9858baa0048",
+  "active": "8324771316c646fb",
   "lastOpenFiles": [
-    "2 - Source Material/Class notes/The box model (mdn).md",
-    "The box model (YT).md",
+    "1 - Rough Notes/Biohackers - La contaminación transgénica es buena para usted.md",
+    "1 - Rough Notes/Un atajo entre el terrorismo y el turismo.md",
+    "1 - Rough Notes/Starter Concentrations Affect the Antibacterial Activity, Chemical and Microbiological Characteristics of Fermented Ginger Functional Drink.md",
+    "1 - Rough Notes/Por qué la dopamina te impulsa a hacer cosas difíciles, incluso sin una recompensa.md",
+    "1 - Rough Notes/Nationalism - An indea that swept the world.md",
+    "1 - Rough Notes/Mas allá de la democracia.md",
+    "1 - Rough Notes/La dopamina en realidad no te hace sentir bien - Esta es la ciencia detrás de la hormona de la felicidad.md",
+    "1 - Rough Notes/Interesterificación enzimática - Ventajas en el proceso y beneficios para los  productos.md",
+    "1 - Rough Notes/Esto es lo que le sucede a tu cerebro cuando te tomas un descanso de las redes sociales.md",
+    "1 - Rough Notes/El anarco-comunismo ante las elecciones.md",
+    "1 - Rough Notes/Dune.md",
+    "1 - Rough Notes/Democracy - Ancient vs. Modern.md",
+    "1 - Rough Notes/Ayuno de dopamina - Funciona según la ciencia.md",
     "2 - Source Material/Class notes/Ejercicios de balance de materia con reacción química.md",
+    "2 - Source Material/Videos/The box model (ByteGrad - YT).md",
+    "2 - Source Material/Class notes/The box model (mdn).md",
     "2 - Source Material/Class notes/Ejercicios de balance de materia con múltiples unidades.md",
+    "2 - Source Material/Class notes/AC4 - Ejercicios UA 1.md",
+    "La Jornada Biohackers la contaminación transgénica es buena para usted.md",
+    "La Jornada Biohackers - La contaminación transgénica es buena para usted.md",
+    "1 - Rough Notes/De la neutralidad valorativa a un nuevo pacto social entre ciencia, ética y tecnología.md",
+    "La NASA dice que su rover en Marte descubrió una posible biofirma el año pasado.md",
+    "5 - Templates/2_General.md",
+    "obsidian-web-clipper-highlights-202510021851.json",
+    "Tecnópolis.md",
+    "EPUB/Tecnopolis - Neil Postman.epub",
+    "EPUB",
+    "Tecnopolis - Neil Postman.md",
+    "Tecnopolis - Neil Postman.epub",
+    "Tecnopolis - Neil Postman 1.epub",
+    "1 - Rough Notes/No olvidar.md",
     "2 - Source Material/0_Obsidian_Media/content-box.png",
     "2 - Source Material/0_Obsidian_Media/border-box.png",
-    "6 - Main Notes/Comandos de Linux.md",
-    "2 - Source Material/Class notes/CSS to HTML.md",
-    "Prueba de Jupyter.md",
-    "2 - Source Material/Class notes/Actividad - Existencialismo.md",
-    "2 - Source Material/Class notes/freeCodeCamp - Scientific computing with Python.md",
-    "2 - Source Material/Class notes/Balance de materia con reacción química - Irreversibilidad, reversibilidad y equilibrio químico.md",
-    "2 - Source Material/Class notes/Aminoácidos canónicos - Estructuras.md",
-    "1 - Rough Notes/Perspectiva personal sobre el estado de las ciencias.md",
-    "1 - Rough Notes/Perspectiva personal sobre el concepto de realidad.md",
-    "1 - Rough Notes/Fear doesn't work.md",
-    "2 - Source Material/Class notes/Aminoácidos y pH.md",
     "2 - Source Material/0_Obsidian_Media/Valores de pKa.png",
-    "5 - Templates/2_Scientific articles.md",
-    "Lecturas - Libros.md",
-    "Obsidian git script.md",
-    "6 - Main Notes/EVIDENCIA 1.UAI. INVESTIGACION.md",
-    "2 - Source Material/Scientific articles/Estudio de pre-tratamientos con enzimas en biomasas destinadas a la producción de biogás.md",
-    "2 - Source Material/Scientific articles/Estudio de pre-tratamientos con enzimas en biomasas destinadas a la producción de biogás.md",
-    "5 - Templates/Integración Zotero-Obsidian/Plantillas Obsidian Zotero/Plantilla Importar Zotero_1.md",
-    "Frases.md",
-    "Prueba 2.md",
-    "Prueba_1.md",
-    "Química(s).md",
     "6 - Main Notes",
     "5 - Templates/Integración Zotero-Obsidian/Plantillas Obsidian Zotero",
     "5 - Templates/Integración Zotero-Obsidian/Ejemplos de formulas de citacion BetterBibTex.txt",
     "5 - Templates/Integración Zotero-Obsidian",
     "5 - Templates",
-    "4 - Indexes",
-    "3 - Tags/Autores",
-    "3 - Tags",
-    "2 - Source Material/Scientific articles",
-    "2 - Source Material/Class notes",
     "2 - Source Material/0_Obsidian_Media/19-08 - 04.png",
     "2 - Source Material/0_Obsidian_Media/19-08 - 03.png",
     "2 - Source Material/0_Obsidian_Media/19-08 - 01.png",

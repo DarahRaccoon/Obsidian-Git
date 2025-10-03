@@ -1,12 +1,12 @@
 >[!Info]
 >Clase: The Odin Project
 >Fecha: 02/Oct/2025
-# [Fuente]()
+# [Fuente](https://www.youtube.com/watch?v=HdZHcFWcAd8)
 ---
 
 	Every single thing on a webpage is a rectangular box. These boxes can have other boxes in them and can sit alongside one another.
 
-# Padding, border n margin
+# Padding, border y margin
 
 	The only real complication here is that there are many ways to manipulate the size of these boxes, and the space between them, using `padding`, `border`, and `margin`
 
@@ -17,7 +17,7 @@
 - **Margin:**
 	- Incrementa el espacio entre *los bordes de la caja* y los *bordes de cajas adyacentes*.
 
-# Content n Border --box
+# content-box y border --box
 ## content-box
 Se comporta como una *adición* a la caja original
 

@@ -6,8 +6,5 @@
   "highlightr-plugin",
   "chem",
   "mehrmaid",
-  "multi-column-markdown",
-  "code-emitter",
-  "notebook-navigator",
-  "epub-importer"
+  "code-emitter"
 ]

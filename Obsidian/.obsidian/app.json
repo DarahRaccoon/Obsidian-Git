@@ -9,5 +9,6 @@
   },
   "alwaysUpdateLinks": true,
   "spellcheck": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "defaultViewMode": "preview"
 }

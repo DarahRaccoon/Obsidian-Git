@@ -3,6 +3,7 @@ Autor(es): {{authors}}
 Publicación: {{date | format("YYYY")}}
 
 >[!Abstract]
+>{{abstract}}
 
 {{bibliography}}
 # [Fuente]({{url}})

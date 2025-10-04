@@ -25,8 +25,8 @@ Simmone Weill
 # Sin páginas
 Saga Discworld
 El Arcoiris de Gravedad - Thomas Pynchon
-Anarchy in action - Colin Ward
-Alamut - Vladimir Bartolo
+[Anarchy in action - Colin Ward](https://annas-archive.org/md5/34d0bfc0b6bfa55b657e9b931df22cbe)
+[Alamut - Vladimir Bartolo](https://annas-archive.org/md5/1453ed21f1af4ff751fd56eacb96ba85)
 Hundred thousand billion poems - Raymond Queneau
 La Teoría de la Bolsa - Ursula K. Leguin
 Teoría generacional de Strauss–Howe - Neil Howe y William Strauss
@@ -52,14 +52,15 @@ El Gusano - Luis Carlos Barragan
 ---
 Despojos racistas - Josefa Sánchez (60)
 San Manuel Bueno, mártir - Miguel de Unamuno (76)
+[Ecología del miedo - Jens Soentgen (93)](https://momot.rs/d3/y/1759625689/10000/g5/zlib1/zlib1/pilimi-zlib-11860000-11899999/11894474~/1B_y0AAhjLIjAd5T2xqeKQ/Ecolog%C3%ADa%20del%20miedo%20%28Spanish%20Edition%29%20--%20Jens%20Soentgen%20%5BSoentgen%2C%20Jens%5D%20--%202019%20--%20Herder%20Editorial%20--%20dcf9b5d5a3ffa1077d9b0456f7e4a68b%20--%20Anna%E2%80%99s%20Archive.pdf)
 El sueño de toda célula - Maricela Guerrero (122)
 Contra la perfección - Michael J. Sandel (122)
 El Llano en Llamas - Juan Rulfo (176)
 Cuando las profecias fallan - Leon Festinger et.al. (181)
-Derecha e Izquierda - Norberto Bobbio (185)
+[Toda ecología es política (184)](https://momot.rs/d3/y/1759625487/10000/g6/zlib3_files/20250612/annas_archive_data__aacid__zlib3_files__20250612T211350Z--20250612T211351Z/aacid__zlib3_files__20250612T211350Z__117563416__5BnBszWbTXQiAxcSh38exZ~/aXeyNhBLJpASs5_DPQsomg/Toda%20ecolog%C3%ADa%20es%20pol%C3%ADtica%20%3A%20Las%20luchas%20por%20el%20derecho%20al%20--%20Mari%CC%81a%20Gabriela%20Merlinsky%20--%20Bookwire%20GmbH%2C%20Ciudad%20Auto%CC%81noma%20de%20Buenos%20Aires%2C%202021%20--%209789878010847%20--%20081e8f0c677917db6a3e91fd1fe7b2cc%20--%20Anna%E2%80%99s%20Archive.pdf)
 # 200-300 páginas
 ---
-- Vibrant Matter - Jane Bennett (202)
+- [Vibrant Matter - Jane Bennett (202)](https://annas-archive.org/slow_download/c2edd783d62d36adaa8e79fb4c21a177/0/0)
 - Washington Bullets - Vijay Prashad (204)
 - This is How You Lose the Time War - Amal El-Mohtar (208)
 - Aniquilación - Jeff VanderMeer (210)
@@ -107,6 +108,7 @@ Derecha e Izquierda - Norberto Bobbio (185)
 - Feral - George Monbiot (336)
 - Mundo anillo - Larry Niven (351)
 - Materia oscura - Blake Crouch (352)
+- [El Capitalismo en la Trama de la Vida - Jason W. Moore (357)](https://momot.rs/d3/y/1759625536/10000/g4/libgenrs_nonfiction/libgenrs_nonfiction/2880000/d64f089316e6ece1b7d6cc6f747c3bc7~/cH1WMLbkTC1aiE1ewS-KmQ/El%20capitalismo%20en%20la%20trama%20de%20la%20vida%3A%20ecolog%C3%ADa%20y%20--%20Jason%20W%20Moore%3B%20Mar%C3%ADa%20Jos%C3%A9%20Castro%20Lage%20--%20Pr%C3%A1cticas%20constituyentes%20%28traficantes%20de%20sue%C3%B1os%29%2C%2022%2C%20--%209788412125979%20--%20d64f089316e6ece1b7d6cc6f747c3bc7%20--%20Anna%E2%80%99s%20Archive.pdf)
 - An Unkindness of Ghosts - Rivers Solomon (360)
 - Elatsoe - Darcie Little Badger (362)
 - Borne Jeff VanderMeer (366)
@@ -134,14 +136,15 @@ Derecha e Izquierda - Norberto Bobbio (185)
 - La generación ansiosa - Jonathan Haidt (489)
 # +500 páginas
 ---
-- Guerra y paz - León Tolstoi (503)
-- Where they burn books they also burn people - Marcos Antonio Hernandez (506)
-- El hombre unidimensional - Herbert Marcuse (508)
-- El círculo - Dave Eggers (519)
-- The Shock Doctrine - Naomi Klein (544)
-- Mujercitas - Louisa May Alcott (584)
-- Marte rojo - Kim Stanley Robinson (610)
-- Forastero en tierra extraña - Robert A. Heinlein (610)
-- Fanged Noumena - Nick Land (680)
-- Metro 2033 (691)
-- Ecología de la libertad - Bookchin (780)
+Guerra y paz - León Tolstoi (503)
+Where they burn books they also burn people - Marcos Antonio Hernandez (506)
+El Hombre Unidimensional - Herbert Marcuse (508)
+El Círculo - Dave Eggers (519)
+[Ecología Oscura - Timothy Morton (531)](https://momot.rs/d3/y/1759625666/10000/g3/zlib3_files/20231230/annas_archive_data__aacid__zlib3_files__20231230T013408Z--20231230T013409Z/aacid__zlib3_files__20231230T013408Z__26892199__EWpBZKCdPYKyViXydoXwhP~/4AyFfzPORorau59TJjp98w/Ecolog%C3%ADa%20oscura%20Sobre%20la%20coexistencia%20futura%20--%20Timothy%20Morton%3B%20Fernando%20Borrajo%20--%20Contextos%2C%202019%20--%20Ediciones%20Paid%C3%B3s%20Ib%C3%A9rica%20--%209788449336225%20--%202ce81df596ce205e038dc1a2996104c2%20--%20Anna%E2%80%99s%20Archive.pdf)
+The Shock Doctrine - Naomi Klein (544)
+Mujercitas - Louisa May Alcott (584)
+Marte rojo - Kim Stanley Robinson (610)
+Forastero en tierra extraña - Robert A. Heinlein (610)
+Fanged Noumena - Nick Land (680)
+Metro 2033 (691)
+Ecología de la libertad - Bookchin (780)

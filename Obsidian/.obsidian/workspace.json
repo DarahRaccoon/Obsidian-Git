@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9fc98ec0702407a1",
+        "id": "d44bb27246421440",
         "type": "tabs",
         "children": [
           {
-            "id": "4ffd0909af3fb5dd",
+            "id": "76995a8b4eb4bfa4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -208,13 +208,18 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "4ffd0909af3fb5dd",
+  "active": "76995a8b4eb4bfa4",
   "lastOpenFiles": [
+    "Lecturas - Libros.md",
+    "Lecturas - Artículos.md",
+    "1 - Rough Notes/Esto es lo que le sucede a tu cerebro cuando te tomas un descanso de las redes sociales.md",
+    "2 - Source Material/General/El anarco-comunismo ante las elecciones.md",
+    "2 - Source Material/General/De la neutralidad valorativa a un nuevo pacto social entre ciencia, ética y tecnología.md",
+    "2 - Source Material/General/Biohackers - La contaminación transgénica es buena para usted.md",
+    "2 - Source Material/General/¿Qué es el open source o código abierto?.md",
     "1 - Rough Notes/The box model (mdn).md",
-    "1 - Rough Notes/¿Qué es el open source o código abierto.md",
     "5 - Templates/Integración Zotero-Obsidian/Plantillas Obsidian Zotero/Plantilla Importar Zotero_1.md",
     "bio.md",
-    "1 - Rough Notes/Biohackers - La contaminación transgénica es buena para usted.md",
     "1 - Rough Notes/Un atajo entre el terrorismo y el turismo.md",
     "1 - Rough Notes/Starter Concentrations Affect the Antibacterial Activity, Chemical and Microbiological Characteristics of Fermented Ginger Functional Drink.md",
     "1 - Rough Notes/Por qué la dopamina te impulsa a hacer cosas difíciles, incluso sin una recompensa.md",
@@ -222,8 +227,6 @@
     "1 - Rough Notes/Mas allá de la democracia.md",
     "1 - Rough Notes/La dopamina en realidad no te hace sentir bien - Esta es la ciencia detrás de la hormona de la felicidad.md",
     "1 - Rough Notes/Interesterificación enzimática - Ventajas en el proceso y beneficios para los  productos.md",
-    "1 - Rough Notes/Esto es lo que le sucede a tu cerebro cuando te tomas un descanso de las redes sociales.md",
-    "1 - Rough Notes/El anarco-comunismo ante las elecciones.md",
     "1 - Rough Notes/Dune.md",
     "1 - Rough Notes/Democracy - Ancient vs. Modern.md",
     "1 - Rough Notes/Ayuno de dopamina - Funciona según la ciencia.md",
@@ -233,9 +236,6 @@
     "2 - Source Material/Class notes/AC4 - Ejercicios UA 1.md",
     "La Jornada Biohackers la contaminación transgénica es buena para usted.md",
     "La Jornada Biohackers - La contaminación transgénica es buena para usted.md",
-    "1 - Rough Notes/De la neutralidad valorativa a un nuevo pacto social entre ciencia, ética y tecnología.md",
-    "La NASA dice que su rover en Marte descubrió una posible biofirma el año pasado.md",
-    "5 - Templates/2_General.md",
     "obsidian-web-clipper-highlights-202510021851.json",
     "EPUB/Tecnopolis - Neil Postman.epub",
     "EPUB",

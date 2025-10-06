@@ -1,6 +1,6 @@
 >[!Info]
 >Clase: Balance de materia y energía
->Fecha: 
+>Fecha: 03/Oct/2025
 
 ---
 # Problema 1

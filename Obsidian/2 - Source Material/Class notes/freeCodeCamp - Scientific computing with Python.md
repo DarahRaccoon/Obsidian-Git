@@ -1,5 +1,5 @@
 >[!Info]
->Clase: SCientific computing with Python
+>Clase: Scientific computing with Python
 >Fecha: --/--/----
 
 ---

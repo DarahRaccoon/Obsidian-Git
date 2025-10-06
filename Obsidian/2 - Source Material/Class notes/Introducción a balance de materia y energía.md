@@ -6,10 +6,14 @@
 # Definición de proceso
 Serie de pasos que se realizan para alcanzar un fin.
 # Tipos de procesos
-- Isotérmico: Sin cambio en la temperatura
-- Isobárico: Sin cambio en la presión
-- Isocórico: Sin cambio en el volumen
-- Adiabático: Sin intercambio de calor
+- Isotérmico:
+	- Sin cambio en la temperatura
+- Isobárico:
+	- Sin cambio en la presión
+- Isocórico:
+	- Sin cambio en el volumen
+- Adiabático:
+	- Sin intercambio de calor
 # Tipos de sistemas
 - Abierto: Existe intercambio tanto de masa como de energía
 - Cerrado: No existe intercambio de masa pero sí de energía

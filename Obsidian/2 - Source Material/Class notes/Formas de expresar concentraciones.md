@@ -25,13 +25,13 @@ $$
 Aquellas en las que en 1 litro de agua hay disuelto un equivalente del soluto. Es decir, el peso molecular de la sustancia dividido por el número de electrones que intercambia en la reacción.
 $$
 \begin{split}
-N &= \frac{equivalentes de soluto}{litros de solución}
+N &= \frac{\text{equivalentes de soluto}}{\text{litros de solución}}
 \\
 \\
-equivalentes de soluto &= \frac{g de soluto}{peso equivalente de soluto}
+\text{equivalentes de soluto} &= \frac{\text{g de soluto}}{\text{peso equivalente de soluto}}
 \\
 \\
-Peso equivalente del soluto &= \frac{peso molecular de soluto}{parámetro de carga de soluto}
+\text{Peso equivalente del soluto} &= \frac{\text{peso molecular de soluto}}{\text{parámetro de carga de soluto}}
 \end{split}
 $$
 ## Porcentajes de soluto

@@ -5,7 +5,7 @@
 ---
 # Adding CSS to HTML
 ## External
-```
+```html
 <!DOCTYPE html>
 
 <html>
@@ -17,4 +17,12 @@
         
         <title>My Recipes</title>
     </head>
+```
+## Internal
+```html
+
+```
+## Inline
+```html
+
 ```

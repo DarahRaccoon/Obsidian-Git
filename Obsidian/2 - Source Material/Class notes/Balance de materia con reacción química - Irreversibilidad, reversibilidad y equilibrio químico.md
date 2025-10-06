@@ -38,7 +38,7 @@ Para resolver problemas de balance de masa en procesos con reacciones químicas 
 ## Balance de especies atómicas y moleculares
 - ¿Qué son los balances de especies moleculares?
 	- Cuando se emplean balances de especies moleculares para determinar las variables desconocidas de las corrientes en un proceso reactivo, los balances de especies reactivas deben contener términos de generación y de consumo, donde el análisis de grados de libertad es:
-	- $$
+$$
 \begin{split}
 \\
 1 &= \text{\# balances}
@@ -55,7 +55,7 @@ Para resolver problemas de balance de masa en procesos con reacciones químicas 
 \\
 \end{split}
 $$
-	- ==Considerar==
+- ==Considerar==
 		1) Cuando 2 especies moleculares guardan la misma proporción entre sí ($E$ y $S$) no serán ecuaciones independientes
 		2) En forma similar, si 2 especiesatómicas se encuentran en la misma proporción siempre en un proceso, los átomos de esas especies no serán una ecuación independiente.
 		3) Las reacciones químicas son independientes cuando la ecuación estequiométrica de cualquiera de ellas no puede obtenerse sumando y restando múltiples de las ecuaciones estequiométricas de las demás.
@@ -63,7 +63,8 @@ $$
 	- Todos los balances de especies atómicas ($C$, $H$, $O$, etc.) toman la forma de $E = S$, ya que no se generan ni consumen especies atómicas en las reacciones.
 	- El número de grados de libertad se determina de forma directa restando las eccuaciones que contienen a las incógnitas marcadas.
 	- Las racciones no aportan grados de libertad adicionales.
-	- $$
+
+$$
 \begin{split}
 \text{Cálculo de grados de libertad}
 \\

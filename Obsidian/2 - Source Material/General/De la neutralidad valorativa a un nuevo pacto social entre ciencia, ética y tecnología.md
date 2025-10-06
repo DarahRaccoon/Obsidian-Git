@@ -22,6 +22,7 @@ Esta visión era mayormente encontrada en la ==tradición positivista==.
 
 
 
+---
 
 	El filósofo Hans Jonas, por ejemplo, propuso un “imperativo de responsabilidad”, según el cual toda acción técnico-científica debe ser evaluada por sus efectos a largo plazo sobre la humanidad y el medio ambiente.
 

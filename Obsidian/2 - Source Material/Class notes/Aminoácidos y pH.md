@@ -28,6 +28,7 @@ CC(=O)O
 ```smiles
 CC(=O)[O-]
 ```
+## Grupo amino
 ### Forma ácida
 ```smiles
 CC[NH3+]
@@ -36,17 +37,26 @@ CC[NH3+]
 ```smiles
 CC[NH2]
 ```
+---
 Como regla general, se espera que en solución una especie esté en su forma ácida si el pH del medio es menor al valor de su pKa, y que esté en su forma básica si el pH del medio es mayor al valor de su pKa.
 Los valores de pKa para los grupos ionizables de cada aminoácido están resumidos en la siguiente tabla:
 ![[Valores de pKa.png]]
 [Tabla](https://uruguayeduca.anep.edu.uy/sites/default/files/inline-files/1%20Propiedades%20%C3%A1cido-base%20de%20los%20amino%C3%A1cidos.pdf)
 # Anfoterismo de los aminoácidos
-Los aminoácidos disueltos en agua presentan un comportamiento anfótero, es decir, pueden ionizarse, comportándose como ácido o como base, dependiendo del pH. Esta característica se debe a la existencia del grupo carboxilo y del grupo amino:
-- Cuando el pH es alcalino, se comporta como ácido. Los grupos COOH liberan protones, quedando como COO-.
-- Cuando el pH es ácido, se comporta como base. Los grupos NH2 captan protones, quedando como NH3+.
-Debido a su comportamiento anfótero, los aminoácidos tienden a neutralizar las variaciones de pH del medio, ya que pueden comportarse como un ácido o una base, liberando o retirando protones del medio. Esta propiedad es importante en la homeostasis porque atenúan las variaciones de pH del medio, funcionando como un sistema tampón o amortiguador del pH.  
-- Si el medio es ácido, el aminoácido se comporta como una base. El grupo -COO- capta un protón y pierde su carga negativa.
-- Si el medio es básico, el aminoácido se comporta como un ácido. El grupo como -NH3+ libera un protón y pierde su carga positiva.
-Cada aminoácido tiene un pH en el que tiende a adoptar una forma dipolar neutra (o zwitterión), con tantas cargas positivas como negativas, que se denomina punto isoeléctrico.
+Los *aminoácidos disueltos en agua* presentan un *comportamiento anfótero*, es decir:
+- Pueden ionizarse, comportándose como ácido o como base, dependiendo del pH.
+Esta característica se debe a la existencia del grupo carboxilo y del grupo amino:
+- Cuando el pH es *alcalino*, se comporta como *ácido*.
+	- Los grupos COOH liberan protones, quedando como COO-.
+	- ```smiles
+	  C(=O)O>>[H+].C(=O)[O-]
+	  ```
+- Cuando el pH es *ácido*, se comporta como *base*.
+	- Los grupos NH2 captan protones, quedando como NH3+.
+	- ```smiles
+	  [NH2].[H+]>>[NH3]
+	  ```
 
+Debido a su comportamiento anfótero, los aminoácidos tienden a neutralizar las variaciones de pH del medio, ya que pueden comportarse como un ácido o una base, liberando o retirando protones del medio. Esta propiedad es importante en la homeostasis porque atenúan las variaciones de pH del medio, funcionando como un sistema tampón o amortiguador del pH.  
+Cada aminoácido tiene un pH en el que tiende a adoptar una forma dipolar neutra (o zwitterión), con tantas cargas positivas como negativas, que se denomina punto isoeléctrico.
 [Biología-Geología.com](https://biologia-geologia.com/biologia2/422_propiedades_de_los_aminoacidos.html)

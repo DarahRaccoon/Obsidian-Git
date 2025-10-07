@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "753ba7230a5eeffc",
+        "id": "05f1525b0458b062",
         "type": "tabs",
         "children": [
           {
-            "id": "91a5d4c26d088bc0",
+            "id": "646f378d2815b14b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcripción del ADN.md",
-                "mode": "source",
+                "file": "1 - Rough Notes/Transcripción del ADN.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -212,10 +212,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "91a5d4c26d088bc0",
+  "active": "91e0b0e45bebbc84",
   "lastOpenFiles": [
+    "1 - Rough Notes/Transcripción del ADN.md",
+    "2 - Source Material/Class notes/Reacciones de combustión.md",
     "5 - Templates/mermaid_general.md",
-    "Transcripción del ADN.md",
     "5 - Templates/mermaid_balance.md",
     "5 - Templates/eqs.md",
     "5 - Templates/smiles.md",
@@ -239,7 +240,6 @@
     "1 - Rough Notes/Nationalism - An indea that swept the world.md",
     "1 - Rough Notes/El Malestar en la Cultura.md",
     "2 - Source Material/General/La dopamina en realidad no te hace sentir bien - Esta es la ciencia detrás de la hormona de la felicidad.md",
-    "1 - Rough Notes/Interesterificación enzimática - Ventajas en el proceso y beneficios para los  productos.md",
     "obsidian-web-clipper-highlights-202510021851.json",
     "EPUB/Tecnopolis - Neil Postman.epub",
     "EPUB",

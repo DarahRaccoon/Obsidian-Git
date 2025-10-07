@@ -19,3 +19,7 @@ Adam Miklosi
 [DNA Damage and Survival Time Course of Deinococcal Cell Pellets During 3 Years of Exposure to Outer Space](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.02050/pdf)
 # Comunicación del cambio climático
 [Acting as we feel: Which emotional responses to the climate crisis motivate climate action](https://www.sciencedirect.com/science/article/pii/S0272494424001002#abs0010)
+# Impacto del TPO y del DMPT en la salud
+# Diseño de vivienda egipcia para la optimización de la temperatura de interiores
+# Sintesis de fármacos a partir de petroleo
+# Impacto de los bebederos de colibríes en la vida de estos

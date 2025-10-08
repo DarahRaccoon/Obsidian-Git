@@ -1,5 +1,5 @@
 >[!Info]
->Clase:
+>Clase: 
 >Fecha: 
 
 ---

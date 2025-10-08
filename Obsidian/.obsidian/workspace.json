@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "843a65cbe21c05be",
+        "id": "6ab225a2d5a00d55",
         "type": "tabs",
         "children": [
           {
-            "id": "0c6ed5c6bf724110",
+            "id": "0c15d4ddb8ea0832",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/KEGG database - EC 3.2.1.4 - cellulase.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "KEGG database - EC 3.2.1.4 - cellulase"
             }
           }
         ]
@@ -208,8 +212,23 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0c6ed5c6bf724110",
+  "active": "0c15d4ddb8ea0832",
   "lastOpenFiles": [
+    "Lecturas - Artículos.md",
+    "5 - Templates/Integración Zotero-Obsidian/Plantillas Obsidian Zotero/Plantilla Importar Zotero_1.md",
+    "1 - Rough Notes/BRENDA database - EC 3.2.1.4 - cellulase.md",
+    "5 - Templates/1_Class Notes.md",
+    "2 - Source Material/Class notes/Time markers - at, in, on, for.md",
+    "1 - Rough Notes/KEGG database - EC 3.2.1.4 - cellulase.md",
+    "Notas de clase.md",
+    "Ideas a investigar.md",
+    "Lecturas - Libros.md",
+    "1 - Rough Notes/La biotecnología en la salud humana - el hito de los anticuerpos monoclonales.md",
+    "1 - Rough Notes/Impacto de la biotecnología en la inmunología.md",
+    "maurizBiotecnologiaSaludHumana2018.md",
+    "1 - Rough Notes/Cinética química.md",
+    "Orden de reacción.md",
+    "2 - Source Material/Class notes/Reacciones hemolíticas y heterolíticas.md",
     "2 - Source Material/Class notes/Transcripción del ADN.md",
     "2 - Source Material/Class notes/Reacciones de combustión.md",
     "5 - Templates/mermaid_general.md",
@@ -217,25 +236,10 @@
     "5 - Templates/eqs.md",
     "5 - Templates/smiles.md",
     "2 - Source Material/General/Lentitud y atención como rebelión en un mundo acelerado.md",
-    "Lecturas - Artículos.md",
     "1 - Rough Notes/Ejercicios de balance de materia con reacción química.md",
     "2 - Source Material/Class notes/Balance en procesos de unidades múltiples.md",
     "2 - Source Material/Class notes/Balance de materia con reacción química - Irreversibilidad, reversibilidad y equilibrio químico.md",
     "2 - Source Material/Class notes/Balance de materia con reacción química.md",
-    "2 - Source Material/Scientific articles/El uso de inhibidores enzimáticos de la metanogénesis en rumiantes.md",
-    "2 - Source Material/Scientific articles/Metanogénesis microbiana en animales poligástricos.md",
-    "2 - Source Material/General/De la neutralidad valorativa a un nuevo pacto social entre ciencia, ética y tecnología.md",
-    "1 - Rough Notes/Por qué la dopamina te impulsa a hacer cosas difíciles, incluso sin una recompensa.md",
-    "Actividad - Existencialismo.md",
-    "2 - Source Material/General/Fear doesn't work.md",
-    "1 - Rough Notes/Monedas energéticas de la vida.md",
-    "1 - Rough Notes/Mas allá de la democracia.md",
-    "1 - Rough Notes/Un atajo entre el terrorismo y el turismo.md",
-    "1 - Rough Notes/Un mejor activismo.md",
-    "1 - Rough Notes/Universidad y democracia. Una reflexión sobre los valores ético-políticos en la educación superior.md",
-    "1 - Rough Notes/Nationalism - An indea that swept the world.md",
-    "1 - Rough Notes/El Malestar en la Cultura.md",
-    "2 - Source Material/General/La dopamina en realidad no te hace sentir bien - Esta es la ciencia detrás de la hormona de la felicidad.md",
     "obsidian-web-clipper-highlights-202510021851.json",
     "EPUB/Tecnopolis - Neil Postman.epub",
     "EPUB",

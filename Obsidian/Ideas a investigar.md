@@ -18,7 +18,9 @@ Tlahuelpuchi
 Paradigmas de la pedagogía
 Teoría de la autodeterminación
 Doble ciego
+Autoensamblaje
 
+[Transhumanismo y posthumanismo, una nueva concepción del ser humano](https://www.observatoriobioetica.org/2020/04/transhumanismo-y-posthumanismo-una-nueva-concepcion-del-ser-humano/32966)
 [This is not aid - MSF](https://www.msf.org/not-aid-orchestrated-killing)
 [Esferas de la insurrección](https://www.bibliotecafragmentada.org/wp-content/uploads/2019/09/405478879-SUELY-ROLNIK-Esferas-de-la-insurreccio-n-pdf.pdf)
 [En Busca de los Extremos](https://dialnet.unirioja.es/servlet/articulo?codigo=7184218)
@@ -26,7 +28,8 @@ Doble ciego
 [John Wayne en Palestina](https://elordenmundial.com/israel-ocupacion-palestina-conquista-oeste-estados-unidos/)
 [Manifiesto Punk](https://web.archive.org/web/20061219131029/http://www.punksunidos.com.ar/punk/txt/04.html)
 
-Animales de mazatlán
+# Animales de mazatlán
+
 	Delfin tornillo
 	Delfin de Risso
 	Tortuga gofina

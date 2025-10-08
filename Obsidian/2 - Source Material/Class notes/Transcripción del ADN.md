@@ -28,16 +28,15 @@ Los que se van a traudcir a proteínas
 Principalmente el ARNm
 - **Bacterias:**
 	- El *tanscrito primario*, tal y como se sintetisa, *ya es el ARNm maduro* listo para sintetizar proteínas
-	- 1 ARNpol
-		- Factor sigma (holoenzima)
-		- 2b y 2a
-		- Busca promotores
-		- Timina a uracilo
+	- Existe solo 1 ARNpol
+		- La una *holoenzima* requiere de un *factor sigma ($\sigma$)* para formarse y llevar a cabo sus funciones
+		- Se compone de subunidades $\alpha , \beta , \beta ' , \sigma , \omega$
+		- Transforma la timina a uracilo
+	- Con frecuencia los *ARN* son *poligénicos o policistrónicos*, de manera que un solo ARNm contiene información para la síntesis de varios polipétptidos distintos
 - **Eucariotas:**
 	- En eucariotas el ARN recién transcrito se denomina *ARNhn (heterogéneo nuclear)*, y es un "pre-ARNm" que es procesado antes de cnvertirse en un ARNm maduro.
-	- ARNpol
-		- 
-			- SIntesis 
-		- II
-		- III
-	- Monosistronicos - 1gen - 1prot
+	- Existen *3 ARNpol*:
+		- I - Sintesis de precursores de ARNr
+		- II - Produce ARNhn y ARNm
+		- III - Transcribe los precursores de las ARN_{t, np, cp}. Transcribe también los genes para el ARN 5 que forma parte de la subunidad grande de los ribosonas
+	- En las eucariotas los *ARNm* son *monosistronicos*, quiere decir, cada gen corresponde a una única proteína.

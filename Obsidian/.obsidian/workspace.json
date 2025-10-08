@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "05f1525b0458b062",
+        "id": "843a65cbe21c05be",
         "type": "tabs",
         "children": [
           {
-            "id": "646f378d2815b14b",
+            "id": "0c6ed5c6bf724110",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/Transcripción del ADN.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Transcripción del ADN"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -212,9 +208,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "91e0b0e45bebbc84",
+  "active": "0c6ed5c6bf724110",
   "lastOpenFiles": [
-    "1 - Rough Notes/Transcripción del ADN.md",
+    "2 - Source Material/Class notes/Transcripción del ADN.md",
     "2 - Source Material/Class notes/Reacciones de combustión.md",
     "5 - Templates/mermaid_general.md",
     "5 - Templates/mermaid_balance.md",

@@ -42,7 +42,7 @@ flowchart LR
 		A@{ shape: cyl, label: "NaNO3" }
 		B@{ shape: cyl, label: "H2SO4" }
 		
-		C("Reacción: NaNO3 + H2SO4 --> Na2SO4 + HNO3")
+		C("Reacción:<br>NaNO3 + H2SO4<br>--><br>Na2SO4 + HNO3")
 		
 		D@{ shape: stadium, label: "HNO3<br>NH3" }
 		E@{ shape: stadium, label: "H2SO4" }
@@ -54,8 +54,8 @@ flowchart LR
 ```
 ## Cálculo
 $$
-\begin{split}&
-\text{1) Cambiar lbm a lbmol}
+\begin{split}
+&\text{1) Cambiar lbm a lbmol}
 \\
 \\
 \text{100lbm}_{NaNO_3} \ * \ \frac{\text{1 lbmol}}{\text{85 g}} &= \text{1.176 lbmol }{NaNO_3}

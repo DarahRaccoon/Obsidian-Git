@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6ab225a2d5a00d55",
+        "id": "a694fe37e164afa6",
         "type": "tabs",
         "children": [
           {
-            "id": "0c15d4ddb8ea0832",
+            "id": "a668f6ff9ee0a156",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/KEGG database - EC 3.2.1.4 - cellulase.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "KEGG database - EC 3.2.1.4 - cellulase"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -136,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prueba_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Prueba_1"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -155,12 +150,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prueba_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Prueba_1"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -184,22 +178,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian git script.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Obsidian git script"
+              "title": "Esquema"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,40 +203,40 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0c15d4ddb8ea0832",
+  "active": "a668f6ff9ee0a156",
   "lastOpenFiles": [
-    "Lecturas - Artículos.md",
+    "2 - Source Material/Videos/The box model (ByteGrad - YT).md",
+    "2 - Source Material/0_Obsidian_Media/content-box.png",
+    "1 - Rough Notes/The box model (mdn).md",
+    "1 - Rough Notes/CSS to HTML.md",
+    "1 - Rough Notes/Ejercicios de balance de materia con reacción química.md",
+    "Notas de clase.md",
+    "2 - Source Material/Class notes/Intro - Transcripción del ADN.md",
+    "1 - Rough Notes/Transcripción del ADN en células procariotas.md",
+    "1 - Rough Notes/Impacto de la biotecnología en la inmunología.md",
+    "2 - Source Material/General/EC 3.2.1.4 - cellulase.md",
+    "1 - Rough Notes/KEGG database - EC 3.2.1.4 - cellulase.md",
+    "1 - Rough Notes/La biotecnología en la salud humana - el hito de los anticuerpos monoclonales.md",
+    "1 - Rough Notes/Dune.md",
+    "1 - Rough Notes/Ayuno de dopamina - Funciona según la ciencia.md",
+    "2 - Source Material/Scientific articles/Starter Concentrations Affect the Antibacterial Activity, Chemical and Microbiological Characteristics of Fermented Ginger Functional Drink.md",
+    "1 - Rough Notes/Un atajo entre el terrorismo y el turismo.md",
+    "1 - Rough Notes/Un mejor activismo.md",
+    "1 - Rough Notes/No olvidar.md",
+    "1 - Rough Notes/Nationalism - An indea that swept the world.md",
+    "1 - Rough Notes/Monedas energéticas de la vida.md",
     "5 - Templates/Integración Zotero-Obsidian/Plantillas Obsidian Zotero/Plantilla Importar Zotero_1.md",
-    "1 - Rough Notes/BRENDA database - EC 3.2.1.4 - cellulase.md",
+    "2 - Source Material/Class notes/Cinética química.md",
+    "Lecturas - Artículos.md",
     "5 - Templates/1_Class Notes.md",
     "2 - Source Material/Class notes/Time markers - at, in, on, for.md",
-    "1 - Rough Notes/KEGG database - EC 3.2.1.4 - cellulase.md",
-    "Notas de clase.md",
     "Ideas a investigar.md",
     "Lecturas - Libros.md",
-    "1 - Rough Notes/La biotecnología en la salud humana - el hito de los anticuerpos monoclonales.md",
-    "1 - Rough Notes/Impacto de la biotecnología en la inmunología.md",
-    "maurizBiotecnologiaSaludHumana2018.md",
-    "1 - Rough Notes/Cinética química.md",
-    "Orden de reacción.md",
-    "2 - Source Material/Class notes/Reacciones hemolíticas y heterolíticas.md",
-    "2 - Source Material/Class notes/Transcripción del ADN.md",
-    "2 - Source Material/Class notes/Reacciones de combustión.md",
-    "5 - Templates/mermaid_general.md",
-    "5 - Templates/mermaid_balance.md",
-    "5 - Templates/eqs.md",
-    "5 - Templates/smiles.md",
-    "2 - Source Material/General/Lentitud y atención como rebelión en un mundo acelerado.md",
-    "1 - Rough Notes/Ejercicios de balance de materia con reacción química.md",
-    "2 - Source Material/Class notes/Balance en procesos de unidades múltiples.md",
-    "2 - Source Material/Class notes/Balance de materia con reacción química - Irreversibilidad, reversibilidad y equilibrio químico.md",
-    "2 - Source Material/Class notes/Balance de materia con reacción química.md",
     "obsidian-web-clipper-highlights-202510021851.json",
     "EPUB/Tecnopolis - Neil Postman.epub",
     "EPUB",
     "Tecnopolis - Neil Postman.epub",
     "Tecnopolis - Neil Postman 1.epub",
-    "2 - Source Material/0_Obsidian_Media/content-box.png",
     "2 - Source Material/0_Obsidian_Media/border-box.png",
     "2 - Source Material/0_Obsidian_Media/Valores de pKa.png",
     "6 - Main Notes",

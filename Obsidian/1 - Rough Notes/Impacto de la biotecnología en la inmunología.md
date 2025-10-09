@@ -8,26 +8,39 @@ Publicación: 2008
 Gómez Flores, R. A., Tamez Guerra, R. S., Tamez Guerra, P., & Rodríguez Padilla, C. (2008). Impacto de la biotecnología en la inmunología. _Medicina Universitaria_, _10_(39), 92–101.
 # [Fuente](http://eprints.uanl.mx/8461/)
 ---
-# .
 
-	La biotecnología también es responsable de cientos de pruebas de diagnóstico médico, como las de embarazo,
+	La biotecnología también es responsable de cientos de pruebas de diagnóstico médico, como las de embarazo, (...)las de detección del virus del SIDA y de la hepatitis B que permiten la transfusión sanguínea segura, y las pruebas de detección en forma temprana de otros padecimientos médicos que pueden tratarse exitosamente.
 
-	as de detección del virus del SIDA y de la hepatitis B que permiten la transfusión sanguínea segura, y las pruebas de detección en forma temprana de otros padecimientos médicos que pueden tratarse exitosamente.2
 
-	La biotecnología usa proteínas, enzimas, anticuerpos y otras sustancias elaboradas naturalmente por el cuerpo humano para luchar contra las infecciones y enfermedades, y corregir trastornos genéticos.
 
-	Los medicamentos biotecnológicos disponibles en la actualidad han sido aprobados por la FDA para tratar anemia, fibrosis quística, deficiencias del crecimiento, hemofilia, leucemia, hepatitis, verrugas genitales, rechazo de trasplantes y muchas formas de cáncer.23
+---
+
+	Los medicamentos biotecnológicos disponibles en la actualidad han sido aprobados por la FDA para tratar anemia, fibrosis quística, deficiencias del crecimiento, hemofilia, leucemia, hepatitis, verrugas genitales, rechazo de trasplantes y muchas formas de cáncer.
+
+
+
+---
 
 	Las vacunas, por su parte, hacen a los individuos menos vulnerables a las enfermedades infecciosas.
 
-	hay organismos que son difíciles de cultivar o hacer crecer en el laboratorio (virus de la hepatitis B), lo que impide la elaboración de vacunas tradicionales. Una vía para superar este problema la ofrece la tecnología de ADN recombinante,25 que permite aislar alguno de los genes que llevan la información para proteínas que se encuentran en la superficie del patógeno contra el que se quiere obtener una vacuna. El gen en cuestión se introduce en bacterias, levaduras o células eucariotas, donde fabrica grandes cantidades de la proteína, que después se purifica y se utiliza como vacuna (recombinante).
+
+
+---
+
+	hay organismos que son difíciles de cultivar o hacer crecer en el laboratorio (virus de la hepatitis B), lo que impide la elaboración de vacunas tradicionales. Una vía para superar este problema la ofrece la tecnología de ADN recombinante, que permite aislar alguno de los genes que llevan la información para proteínas que se encuentran en la superficie del patógeno contra el que se quiere obtener una vacuna. El gen en cuestión se introduce en bacterias, levaduras o células eucariotas, donde fabrica grandes cantidades de la proteína, que después se purifica y se utiliza como vacuna (recombinante).
+
+
+
+---
 
 	Anticuerpos policlonales
-
 	Anticuerpos monoclonales
 
-	FACTOR DE TRANSFERENCIA LEUCOCITARIO
+
+
+---
 
 	El factor de transferencia (FT) es un extracto leucocitario dializable con propiedades inmunopotenciadoras. Puede obtenerse mediante diversos métodos a partir de fuentes linfoides de humano y animal
-
 	El factor de transferencia basa su actividad en la transmisión de inmunidad de un individuo sano (inmunocompetente) a uno inmunodeficiente, sin importar la especie a la que pertenezca.
+
+

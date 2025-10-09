@@ -8,16 +8,22 @@ Publicación: 2018
 Mauriz, J. L., Ordoñez, R., Prieto-Domínguez, N., & González Gallego, J. (2018). La biotecnología en la salud humana: El hito de los anticuerpos monoclonales. _Ambiociencias_, 12–33. [https://doi.org/10.18002/ambioc.v0i12.4944](https://doi.org/10.18002/ambioc.v0i12.4944)
 # [Fuente](https://revpubli.unileon.es/ojs/index.php/ambioc/article/view/4944)
 ---
-# .
+# Citas
 
 	En relación con la producción de anticuerpos un hito importante en  biotecnología lo constituyó la puesta a punto de la tecnología de los hibridomas,  que permite la obtención de anticuerpos monoclonales, de gran pureza y capaces  de reconocer y unirse a un epítopo concreto de un antígeno específico.
 
+
+
+---
+
 	En los últimos años, los anticuerpos monoclonales constituyen un  elemento fundamental en la investigación biomédica en campos tan dispares  como la detección de proteínas o la inhibición de dianas terapéuticas en el  tratamiento de diversas patologías como el cáncer, la artritis, el rechazo a  órganos trasplantados, la psoriasis, el asma, etc.
 
-	Entre los principales efectos adversos observados tras el tratamiento con  anticuerpos monoclonales podemos destacar los siguientes:  Reacciones de hipersensibilidad (HSRs).
 
+
+---
+
+	Entre los principales efectos adversos observados tras el tratamiento con  anticuerpos monoclonales podemos destacar los siguientes:
+	Reacciones de hipersensibilidad (HSRs).
 	Reacciones cutáneas.
-
 	Infecciones
-
 	Tumores

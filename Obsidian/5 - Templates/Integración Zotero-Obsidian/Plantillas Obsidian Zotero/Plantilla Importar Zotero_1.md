@@ -8,7 +8,6 @@ Publicación: {{date | format("YYYY")}}
 {{bibliography}}
 # [Fuente]({{url}})
 ---
-# .
 {% for annotation in annotations %}{% if annotation.annotatedText %}
 	{{annotation.annotatedText}}
 {% endif %}{% endfor %}

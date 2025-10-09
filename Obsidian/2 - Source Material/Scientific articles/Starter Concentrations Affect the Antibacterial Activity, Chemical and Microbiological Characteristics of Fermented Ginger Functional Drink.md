@@ -21,6 +21,7 @@ graph LR
 	B --> |24h|C("Rellenar: 100mL agua, 15g azúcar, 15g jengibre")
 	C --> B
 ```
+---
 
 	Una bebida funcional de jengibre fue hecha de acuerdo a () con modificaciones
 	La bebida es hecha hirviendo 500 mL de agua y 75 g de azúcar a 100°C por 5 min.
@@ -36,6 +37,7 @@ graph LR
 	B --> C("Añadir bicho de jengibre")
 	C --> D("Fermentar 3 dias dejando escapar gas cada 24h")
 ```
+---
 # Discusión
 
 	El recuento de bacterias de ácido lácticas (LAB en inglés) se ve afectado significativamente por la concentración de bicho de jengibre (P <0,05).
@@ -51,7 +53,8 @@ Esto puede ser ocasionado por diversos factores, por ejemplo:
 1) Una disminución en la disponibilidad de sustrato necesario para el crecimiento de las LAB.
 2) Acumulación de metabolitos secundarios ($H_20$, por ejemplo).
 3) Cambios en el pH por la acumulación de ácidos orgánicos.
-.
+
+---
  
 	La levadura y el recuento de moho se ve afectado significativamente por la concentración de bicho de jengibre (P <0,05).
 	Tiende a disminuir en línea con el aumento de las concentraciones de errores de jengibre.
@@ -65,7 +68,8 @@ Existe una relación inversa entre la concentración de bicho de jengibre agrega
 1) Que las LAB hayan excretado sustancias anti-moho y anti-levaduras.
 2) Que el ácido láctico haya inhibido el crecimiento de estos.
 3) Que algunos de los ingredientes activos primarios de los rizomas del jengibre, como el gingerol y la oleorresina, puedan ser agentes antifuńgicos.
-.
+
+---
 
 	El pH se ve afectado significativamente por la concentración de errores de jengibre (P <0,05).
 	Tiende a disminuir en línea con el aumento de las concentraciones de bicho de jengibre agregadas.
@@ -77,8 +81,5 @@ Existe una relación inversa entre la concentración de bicho de jengibre agrega
 Existe una relación inversa entre la concentración de bicho de jengibre agregada a la bebida fermentada y el pH del producto final. Esto debido a lo siguiente:
 1) La  acumulación de ácido láctico en el medio.
 2) La liberación de protones ($H⁺$) al medio a causa de la fermentación
-.
 
-	Luego, (Jannah et al., 2014) también reveló que cuantas más fuentes de azúcar se metabolizan, más ácidos orgánicos se producen para que el pH sea más bajo.
-
-a
+---

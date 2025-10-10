@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "15b2b5d61af9ac5d",
+        "id": "97a7b21c7ec0180c",
         "type": "tabs",
-        "dimension": 38.694992412746586,
         "children": [
           {
-            "id": "eb39a3903fac40df",
+            "id": "f80c4cd2dd68ba3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de clase.md",
-                "mode": "source",
+                "file": "2 - Source Material/General/Qué es el open source o código abierto.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas de clase"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b0b1fdc1eb8a7929",
-        "type": "tabs",
-        "dimension": 61.305007587253414,
-        "children": [
-          {
-            "id": "c01993def6d2ffc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/General/EC 3.2.1.4 - Celulasa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EC 3.2.1.4 - Celulasa"
+              "title": "Qué es el open source o código abierto"
             }
           }
         ]
@@ -100,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f93a1449550756a9",
@@ -117,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 - Source Material/General/EC 3.2.1.4 - Celulasa.md",
+                "file": "2 - Source Material/General/Qué es el open source o código abierto.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de EC 3.2.1.4 - Celulasa"
+              "title": "Gráfico de Qué es el open source o código abierto"
             }
           }
         ]
@@ -160,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/General/EC 3.2.1.4 - Celulasa.md",
+                "file": "2 - Source Material/General/Qué es el open source o código abierto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de EC 3.2.1.4 - Celulasa"
+              "title": "Enlaces entrantes de Qué es el open source o código abierto"
             }
           },
           {
@@ -233,12 +210,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c01993def6d2ffc3",
+  "active": "f80c4cd2dd68ba3a",
   "lastOpenFiles": [
-    "Notas de clase.md",
     "2 - Source Material/General/EC 3.2.1.4 - Celulasa.md",
+    "2 - Source Material/Class notes/Métodos de integración.md",
+    "Notas de clase.md",
     "1 - Rough Notes/KEGG database - EC 3.2.1.4 - cellulase.md",
-    "Integrales.md",
     "1 - Rough Notes/CSS to HTML.md",
     "css.md",
     "css 3.md",

@@ -2,8 +2,11 @@
 Vias
 - Mieloide
 - Linfoide
+
 Ambiente inductor hematopoyético
+
 - Células estromarias
+
 Estudios knock out
 Factores de transcipción
 
@@ -29,11 +32,8 @@ Tipso de receptores
 - Nod like
 	- Intracelular
 - Ctype
-
-Mecanismos y barreras de inmu innnata
-Esquema - Receptores de reconocimineto de patrones y moléculas de adhesion
-
 # Biología molecular
+
 # Cálculo
 
 # Tecnología enzimática
@@ -54,3 +54,6 @@ Buscar:
 - Si acaso existe una estructura definida para su sitio activo, agregarla
 - Si hay un modelo molecular, agregarlo
 - Datos de aislamiento y purificación
+# Balance
+
+# Ética

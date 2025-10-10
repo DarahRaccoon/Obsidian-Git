@@ -4,21 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "a694fe37e164afa6",
+        "id": "15b2b5d61af9ac5d",
         "type": "tabs",
+        "dimension": 38.694992412746586,
         "children": [
           {
-            "id": "a668f6ff9ee0a156",
+            "id": "eb39a3903fac40df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/CSS to HTML.md",
-                "mode": "preview",
+                "file": "Notas de clase.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS to HTML"
+              "title": "Notas de clase"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b0b1fdc1eb8a7929",
+        "type": "tabs",
+        "dimension": 61.305007587253414,
+        "children": [
+          {
+            "id": "c01993def6d2ffc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/General/EC 3.2.1.4 - Celulasa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EC 3.2.1.4 - Celulasa"
             }
           }
         ]
@@ -78,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f93a1449550756a9",
@@ -94,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - Rough Notes/CSS to HTML.md",
+                "file": "2 - Source Material/General/EC 3.2.1.4 - Celulasa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +145,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de CSS to HTML"
+              "title": "Gráfico de EC 3.2.1.4 - Celulasa"
             }
           }
         ]
@@ -137,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/CSS to HTML.md",
+                "file": "2 - Source Material/General/EC 3.2.1.4 - Celulasa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de CSS to HTML"
+              "title": "Enlaces entrantes de EC 3.2.1.4 - Celulasa"
             }
           },
           {
@@ -196,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,19 +233,23 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a668f6ff9ee0a156",
+  "active": "c01993def6d2ffc3",
   "lastOpenFiles": [
+    "Notas de clase.md",
+    "2 - Source Material/General/EC 3.2.1.4 - Celulasa.md",
+    "1 - Rough Notes/KEGG database - EC 3.2.1.4 - cellulase.md",
+    "Integrales.md",
+    "1 - Rough Notes/CSS to HTML.md",
+    "css.md",
+    "css 3.md",
+    "1 - Rough Notes/Transcripción del ADN en células eucariotas.md",
+    "1 - Rough Notes/Transcripción del ADN en células procariotas.md",
     "2 - Source Material/Videos/The box model (ByteGrad - YT).md",
     "2 - Source Material/0_Obsidian_Media/content-box.png",
     "1 - Rough Notes/The box model (mdn).md",
-    "1 - Rough Notes/CSS to HTML.md",
     "1 - Rough Notes/Ejercicios de balance de materia con reacción química.md",
-    "Notas de clase.md",
     "2 - Source Material/Class notes/Intro - Transcripción del ADN.md",
-    "1 - Rough Notes/Transcripción del ADN en células procariotas.md",
     "1 - Rough Notes/Impacto de la biotecnología en la inmunología.md",
-    "2 - Source Material/General/EC 3.2.1.4 - cellulase.md",
-    "1 - Rough Notes/KEGG database - EC 3.2.1.4 - cellulase.md",
     "1 - Rough Notes/La biotecnología en la salud humana - el hito de los anticuerpos monoclonales.md",
     "1 - Rough Notes/Dune.md",
     "1 - Rough Notes/Ayuno de dopamina - Funciona según la ciencia.md",
@@ -234,10 +262,6 @@
     "5 - Templates/Integración Zotero-Obsidian/Plantillas Obsidian Zotero/Plantilla Importar Zotero_1.md",
     "2 - Source Material/Class notes/Cinética química.md",
     "Lecturas - Artículos.md",
-    "5 - Templates/1_Class Notes.md",
-    "2 - Source Material/Class notes/Time markers - at, in, on, for.md",
-    "Ideas a investigar.md",
-    "Lecturas - Libros.md",
     "obsidian-web-clipper-highlights-202510021851.json",
     "EPUB/Tecnopolis - Neil Postman.epub",
     "EPUB",
